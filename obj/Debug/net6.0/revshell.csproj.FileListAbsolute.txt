@@ -1,0 +1,15 @@
+/home/kali/htb/competitive/visual/revshell/bin/Debug/net6.0/revshell
+/home/kali/htb/competitive/visual/revshell/bin/Debug/net6.0/revshell.deps.json
+/home/kali/htb/competitive/visual/revshell/bin/Debug/net6.0/revshell.runtimeconfig.json
+/home/kali/htb/competitive/visual/revshell/bin/Debug/net6.0/revshell.dll
+/home/kali/htb/competitive/visual/revshell/bin/Debug/net6.0/revshell.pdb
+/home/kali/htb/competitive/visual/revshell/obj/Debug/net6.0/revshell.csproj.AssemblyReference.cache
+/home/kali/htb/competitive/visual/revshell/obj/Debug/net6.0/revshell.GeneratedMSBuildEditorConfig.editorconfig
+/home/kali/htb/competitive/visual/revshell/obj/Debug/net6.0/revshell.AssemblyInfoInputs.cache
+/home/kali/htb/competitive/visual/revshell/obj/Debug/net6.0/revshell.AssemblyInfo.cs
+/home/kali/htb/competitive/visual/revshell/obj/Debug/net6.0/revshell.csproj.CoreCompileInputs.cache
+/home/kali/htb/competitive/visual/revshell/obj/Debug/net6.0/revshell.dll
+/home/kali/htb/competitive/visual/revshell/obj/Debug/net6.0/refint/revshell.dll
+/home/kali/htb/competitive/visual/revshell/obj/Debug/net6.0/revshell.pdb
+/home/kali/htb/competitive/visual/revshell/obj/Debug/net6.0/revshell.genruntimeconfig.cache
+/home/kali/htb/competitive/visual/revshell/obj/Debug/net6.0/ref/revshell.dll

@@ -1,4 +1,4 @@
-﻿namespace HelloWorld
+﻿namespace revshell
 {
     class Program
     {
