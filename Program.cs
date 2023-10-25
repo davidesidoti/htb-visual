@@ -1,10 +1,9 @@
-﻿namespace revshell
+﻿using System;
+
+class Program
 {
-    class Program
+    static void Main()
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello, World!");
-        }
+        Console.WriteLine("Hello, World!");
     }
 }

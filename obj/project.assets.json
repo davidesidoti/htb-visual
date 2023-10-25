@@ -8,24 +8,26 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/root/.nuget/packages/": {}
+    "C:\\Users\\josep\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/kali/htb/competitive/visual/revshell/revshell.csproj",
-      "projectName": "revshell",
-      "projectPath": "/home/kali/htb/competitive/visual/revshell/revshell.csproj",
-      "packagesPath": "/root/.nuget/packages/",
-      "outputPath": "/home/kali/htb/competitive/visual/revshell/obj/",
+      "projectUniqueName": "C:\\Users\\josep\\source\\repos\\Visual\\Visual.csproj",
+      "projectName": "Visual",
+      "projectPath": "C:\\Users\\josep\\source\\repos\\Visual\\Visual.csproj",
+      "packagesPath": "C:\\Users\\josep\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\josep\\source\\repos\\Visual\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/root/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\josep\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -59,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.414/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
